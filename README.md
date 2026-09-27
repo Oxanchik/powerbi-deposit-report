@@ -77,12 +77,12 @@
 
 ## Файлы
 
-- `report/deposit-report.pbix` — итоговый отчёт Power BI
+- `deposit-report.pbix` — итоговый отчёт Power BI
 - `screenshots/data-model.png` — схема модели данных
 
 ## Как открыть
 
-1. Скачайте файл `report/deposit-report.pbix`.
+1. Скачайте файл `deposit-report.pbix`.
 2. Откройте в **Power BI Desktop** (бесплатная версия).
 3. Для обновления данных настроить путь к исходным файлам.
 
